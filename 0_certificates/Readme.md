@@ -1,4 +1,4 @@
 #certificates
-*sololearn
-*NDG linux
-*Firstday on github-screenshot
+* sololearn
+* NDG linux
+* Firstday on github-screenshot
